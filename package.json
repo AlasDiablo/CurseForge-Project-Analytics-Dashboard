@@ -1,0 +1,23 @@
+{
+  "name": "curseforge-project-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server": "node server.js",
+    "export": "node export.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlasDiablo/CurseForge-Project-Analytics-Dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlasDiablo/CurseForge-Project-Analytics-Dashboard/issues"
+  },
+  "homepage": "https://github.com/AlasDiablo/CurseForge-Project-Analytics-Dashboard#readme",
+  "dependencies": {
+    "csv-parse": "4.12.0"
+  }
+}
